@@ -5,7 +5,7 @@ Input and output information through CSV format files.
 
 ## Running the tests
 
-See [Test README.md](test-data/README.md)
+See [Test README.md](test/README.md)
 
 ## Development Status
 
