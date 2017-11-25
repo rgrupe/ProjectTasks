@@ -6,14 +6,6 @@ projassigns.py
 version: 2017-11-24
 author: Robert Grupe
 
-TODO: 
-1. TDD
-1.1. doctest see test-data/projassigns_test.txt
-1.2. unittest so can run application from IDE console
-2. Complete program from previous exercise outline.
-3. No use of global ?? (test in exercise.0
-4. combine importing of projects and tasks into a single funtion.
-
 """
 import csv
 import datetime

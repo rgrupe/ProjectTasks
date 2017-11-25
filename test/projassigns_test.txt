@@ -1,10 +1,9 @@
-This is a doctest based regression suite for ..\projassigns.py
+This is a doctest based regression suite for projassigns.py.
 Each '>>' line is run as if in a python shell, and counts as a test.
 The next line, if not '>>' is the expected output of the previous line.
 If anything doesn't match exactly (including trailing spaces), the test fails.
-To run: $python -m doctest -v ./test-data/projassigns_test.txt
 
-Current program works: $ python projassigns.py projects.csv tasks.csv
+To run tests: $ python -m doctest -v ./test/projassigns_test.txt
 
 >>>from projassigns import main
 >>>main("projects.csv", "tasks.csv")

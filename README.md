@@ -5,6 +5,11 @@ Input and output information through CSV format files.
 
 Primary initial use is for uploading multiple projects' tasks into Jira.
 
+## Usage
+
+$ python projassigns.py projects.csv tasks.csv
+
+
 ## Development Status
 
 In-work initial development.
