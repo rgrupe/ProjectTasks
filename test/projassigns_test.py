@@ -1,10 +1,10 @@
-""" Test module for ProjectTasks.py
+""" Test module for projectassigns.py
 
-version: 2017-11-22
+version: 2017-11-24
 author: Robert Grupe
 """
 import unittest
-import ProjectTasks.py
+import projassigns.py
 
 class TestCase00(unittest.TestCase):
     """Tests for `ProjectTasks.py`."""

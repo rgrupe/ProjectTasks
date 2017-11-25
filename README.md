@@ -1,6 +1,7 @@
-# ProjectTasks
+# projassigns
 
-Creates a task assignments list by merging a list of projects with a task list template.
+Project Assignments: Creates an assignment list from a list of information about projects and a template list of project tasks.
+Input and output information through CSV format files.
 
 ## Running the tests
 

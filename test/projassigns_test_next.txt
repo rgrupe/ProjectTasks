@@ -1,0 +1,13 @@
+main function
+>>>from projassigns import main
+>>>main
+Please provide the file names you would like to use.
+
+
+projects function
+
+    >>> from projassigns import projects
+    >>> projects(project.csv)
+    PROJECTS imported successfully.
+    >>> 
+
